@@ -8,6 +8,11 @@
 Ссылка на GitHub: 
 https://github.com/DmGetun/PD
 
+Ссылка на TestRail:
+Address: https://oi2828.testrail.io/
+Username: dmgetun@gmail.com
+Password: vkqCiVuZ5tXQs5qaj0aR
+
 ## Участники
 
 | Учебная группа | Имя пользователя | ФИО                      |
